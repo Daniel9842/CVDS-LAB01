@@ -3,16 +3,16 @@
   Miguel Ángel Rodríguez Siachoque
 
   * **Plan de estudio**\
-  _Plan_ 14
+  _Plan_ **14**
 
   * **Facultad**\
   Ingeniería de sistemas
 
   * **Semestre**\
-  8° _Semestre_
+  **8°** _Semestre_
 
   * **Edad**\
-  `22 _años_`
+  **22** _años_
 
   * **Asignaturas**
   ```
