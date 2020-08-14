@@ -12,7 +12,7 @@
   8° _Semestre_
 
   * **Edad**\
-  22 _años_
+  `22 _años_`
 
   * **Asignaturas**
   ```
