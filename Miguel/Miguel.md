@@ -26,7 +26,8 @@ Ingeniería de sistemas
 * # **Información personal**
   * **Deportes**
     * **Fútbol**\
-![](https://1.bp.blogspot.com/-KhgIupkyLrw/XsMFbIF4syI/AAAAAAABa6Y/dqLGENOFXFwpCzR9Usd7VKC1CQEOmI6kQCK4BGAsYHg/Chelsea%2BFC256x.png)\
+![](https://1.bp.blogspot.com/-KhgIupkyLrw/XsMFbIF4syI/AAAAAAABa6Y/dqLGENOFXFwpCzR9Usd7VKC1CQEOmI6kQCK4BGAsYHg/Chelsea%2BFC256x.png)
+![](https://img.cdndtl.co.uk/umbraco2017/23519/three-logo-600x200.jpg?w=639px&auto=format&s=9f2d7ad363b19820ab4aaccdd6cc584a)\
 [Chelsea Football Club](https://www.chelseafc.com/en)
   > Chelsea Football Club are an English professional football club based in Fulham, London. Founded in 1905, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over thirty competitive honours, including six league titles and six European trophies. Their home ground is Stamford Bridge.
     * **Ciclismo**
