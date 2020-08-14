@@ -3,27 +3,26 @@
 Miguel Ángel Rodríguez Siachoque
 
   * **Plan de estudio**\
-_Plan 14_
+_Plan_ 14
 
   * **Facultad**\
 Ingeniería de sistemas
 
   * **Semestre**\
-_8° Semestre_
+8° _Semestre_
 
   * **Edad**\
-_22 años_
+22 _años_
 
-  *Asignaturas**
-```
-- CVDS
+  * **Asignaturas**
+```- CVDS
 - RECO
 - FDGP 
 - AUPN 
-- TSOR
-```
+- TSOR```
+
 * **Deportes**
-  * **Fútbol**
+  * **Fútbol**\
 [Chelsea Football Club](https://www.chelseafc.com/en)
   * **Ciclismo**
 ![](https://cdn.freelogovectors.net/wp-content/uploads/2018/03/fox_racing_logo1.png)
