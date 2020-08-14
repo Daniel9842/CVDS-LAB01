@@ -14,17 +14,20 @@
 
 ## Información
 Me gustan muchos deportes como el tenis, mi jugador favorito es roger Federer apodado como *Su majestad*,\
-Ha ganado múltiples torneos importantes como lo son los Grand Slam:\
+Ha ganado múltiples torneos importantes como lo son los Grand Slam:
 ```
-Abierto de Australia: 6 ocasiones\
-Roland Garros: 1 ocasión\
-Wimbledon: 8 ocasiones\
-Abierto de EE. UU. : 5 ocasiones\
+Abierto de Australia: 6 ocasiones
+Roland Garros: 1 ocasión
+Wimbledon: 8 ocasiones
+Abierto de EE. UU. : 5 ocasiones
 ```
 ![]()
 Otro deporte es el baloncesto,mi jugador favorito es Lebron James y como equipo Los Lakers.\
+Los lakers han ganado 16 campeonatos mientras que Lebron James ha ganado 3 campeonatos,2 con\
+Miami Heat y 1 con Cleveland Cavaliers.
 ![](https://www.pngarts.com/files/5/LeBron-James-Transparent-Background-PNG.png)\
-También el automovilismo es un deporte que me atrae mucho, mi piloto favorito es Lewis Hamilton.\
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRgsVASUPrpwRNF-0coH3FB4AA26UgzPA2rDQ&usqp=CAU)\
+También el automovilismo es un deporte que me atrae mucho, mi piloto favorito es Lewis Hamilton,\
+Hamilton ha ganado 6 campeonatos mundiales de Formula 1.
+![](https://www.vhv.rs/dpng/d/458-4583474_lewis-hamilton-2020-suit-hd-png-download.png)
 
 
