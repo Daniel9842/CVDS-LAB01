@@ -21,7 +21,7 @@ Roland Garros: 1 ocasión
 Wimbledon: 8 ocasiones
 Abierto de EE. UU. : 5 ocasiones
 ```
-![](http://www.pngmart.com/files/8/Roger-Federer-PNG-Download-Image.png)
+![](http://www.pngmart.com/files/8/Roger-Federer-PNG-Download-Image.png)\
 Otro deporte es el baloncesto,mi jugador favorito es Lebron James y como equipo Los Lakers.\
 Los lakers han ganado 16 campeonatos mientras que Lebron James ha ganado 3 campeonatos,2 con\
 Miami Heat y 1 con Cleveland Cavaliers.\
