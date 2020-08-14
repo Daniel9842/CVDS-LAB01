@@ -15,11 +15,13 @@ Ingeniería de sistemas
 22 _años_
 
   * **Asignaturas**
-```- CVDS
+```
+- CVDS
 - RECO
 - FDGP 
 - AUPN 
-- TSOR```
+- TSOR
+```
 
 * **Deportes**
   * **Fútbol**\
