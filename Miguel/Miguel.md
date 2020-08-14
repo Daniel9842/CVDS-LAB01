@@ -1,33 +1,34 @@
 * # **Información universitaria**
   * **Nombre** \
-Miguel Ángel Rodríguez Siachoque
+  Miguel Ángel Rodríguez Siachoque
 
   * **Plan de estudio**\
-_Plan_ 14
+  **14** _Plan_ 
 
   * **Facultad**\
-Ingeniería de sistemas
+  Ingeniería de sistemas
 
   * **Semestre**\
-8° _Semestre_
+  **8°** _Semestre_
 
   * **Edad**\
-22 _años_
+  **22** _años_
 
   * **Asignaturas**
-```
-- CVDS
-- RECO
-- FDGP 
-- AUPN 
-- TSOR
-```
+  ```
+  - CVDS
+  - RECO
+  - FDGP 
+  - AUPN 
+  - TSOR
+  ```
 
 * # **Información personal**
   * **Deportes**
     * **Fútbol**\
 ![](https://1.bp.blogspot.com/-KhgIupkyLrw/XsMFbIF4syI/AAAAAAABa6Y/dqLGENOFXFwpCzR9Usd7VKC1CQEOmI6kQCK4BGAsYHg/Chelsea%2BFC256x.png)
-![](https://img.cdndtl.co.uk/umbraco2017/23519/three-logo-600x200.jpg?w=639px&auto=format&s=9f2d7ad363b19820ab4aaccdd6cc584a)\
+![](https://3.bp.blogspot.com/-7mFHWlGQkuo/WVOIELm3_FI/AAAAAAABKCU/IzP_0x2y1hUs9IbCbqvz9scHBIn5nXTCACLcBGAs/s1600/Premier%2BLeague%2BR256x.png)
+![](https://4.bp.blogspot.com/-2qnrSSwarYM/XOSc02tAHwI/AAAAAAABVGo/Onj25v-RfWIIQwCuwPrd92BqjVIj223tQCLcBGAs/s1600/FA256x.png)\
 [Chelsea Football Club](https://www.chelseafc.com/en)
   > Chelsea Football Club are an English professional football club based in Fulham, London. Founded in 1905, the club competes in the Premier League, the top division of English football. Chelsea are among England's most successful clubs, having won over thirty competitive honours, including six league titles and six European trophies. Their home ground is Stamford Bridge.
     * **Ciclismo**
