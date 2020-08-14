@@ -24,8 +24,9 @@ Ingeniería de sistemas
 ```
 
 * # **Información personal**
-  * **Fútbol**\
+  * **Deportes**
+    * **Fútbol**\
 [Chelsea Football Club](https://www.chelseafc.com/en)
-  * **Ciclismo**
+    * **Ciclismo**
 ![](https://cdn.freelogovectors.net/wp-content/uploads/2018/03/fox_racing_logo1.png)
 Fox Racing es una compañia de ciclismo MTB que proveé protección, ropa y repusetos para ciclistas.
