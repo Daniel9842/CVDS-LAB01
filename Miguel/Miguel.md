@@ -3,7 +3,7 @@
   Miguel Ángel Rodríguez Siachoque
 
   * **Plan de estudio**\
-  **14**_Plan_ 
+  **14** _Plan_ 
 
   * **Facultad**\
   Ingeniería de sistemas
