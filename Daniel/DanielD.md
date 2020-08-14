@@ -22,12 +22,17 @@ Wimbledon: 8 ocasiones
 Abierto de EE. UU. : 5 ocasiones
 ```
 ![](http://www.pngmart.com/files/8/Roger-Federer-PNG-Download-Image.png)\
+[Roger Federer](https://rogerfederer.com/)
 Otro deporte es el baloncesto,mi jugador favorito es Lebron James y como equipo Los Lakers.\
 Los lakers han ganado 16 campeonatos mientras que Lebron James ha ganado 3 campeonatos,2 con\
 Miami Heat y 1 con Cleveland Cavaliers.\
 ![](https://www.pngarts.com/files/5/LeBron-James-Transparent-Background-PNG.png)\
+[Los Ángeles Lakers](https://www.nba.com/lakers/?tmd=1)
 También el automovilismo es un deporte que me atrae mucho, mi piloto favorito es Lewis Hamilton,\
 Hamilton ha ganado 6 campeonatos mundiales de Formula 1.\
-![](https://e0.365dm.com/f1/drivers/h_full_809.png)
+![](https://e0.365dm.com/f1/drivers/h_full_809.png)\
+[Formula 1](https://www.fórmula1.com/)
+
+
 
 
