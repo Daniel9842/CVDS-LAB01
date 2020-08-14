@@ -1,4 +1,4 @@
-* # **Información**
+* # **Información universitaria**
   * **Nombre** \
 Miguel Ángel Rodríguez Siachoque
 
@@ -23,7 +23,7 @@ Ingeniería de sistemas
 - TSOR
 ```
 
-* **Deportes**
+* # **Información personal**
   * **Fútbol**\
 [Chelsea Football Club](https://www.chelseafc.com/en)
   * **Ciclismo**
