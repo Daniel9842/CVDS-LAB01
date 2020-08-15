@@ -29,8 +29,12 @@ Miami Heat y 1 con Cleveland Cavaliers.\
 También el automovilismo es un deporte que me atrae mucho, mi piloto favorito es Lewis Hamilton,\
 Hamilton ha ganado 6 campeonatos mundiales de Formula 1.\
 ![](https://e0.365dm.com/f1/drivers/h_full_809.png)\
-[Formula 1](https://www.fórmula1.com/)
-
+[Formula 1](https://www.fórmula1.com/)\
+## **Parte 3**
+1. **Main**
+![](Captura1)\
+2. **Remote**
+![](Captura2)
 
 
 
