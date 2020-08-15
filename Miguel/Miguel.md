@@ -39,11 +39,20 @@
 * # **Turorial Github**
   * **Main**
   ![](Main.jpg)
-  > **Nombre :** Miguel Ángel Rodríguez Siachoque\
-  > **Carné :** 2132211\
-  > **Fecha :** 14/08/2020\
+  > **Nombre :** Miguel Ángel Rodríguez Siachoque
+  >
+  > **Carné :** 2132211
+  >
+  > **Hora :** 7:58 pm
+  >
+  > **Fecha :** 14/08/2020
+
   * **Remote**
   ![](Remote.jpg)
-  > **Nombre :** Miguel Ángel Rodríguez Siachoque\
-  > **Carné :** 2132211\
-  > **Fecha :** 14/08/2020\
+  > **Nombre :** Miguel Ángel Rodríguez Siachoque
+  >
+  > **Carné :** 2132211
+  >
+  > **Hora :** 7:58 pm
+  >
+  > **Fecha :** 14/08/2020
