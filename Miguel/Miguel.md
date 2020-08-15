@@ -40,6 +40,7 @@
   * **Main**
   ![](Main.jpg)
   > **Nombre :** Miguel Ángel Rodríguez Siachoque
+  >
   > **Carné :** 2132211
   >
   > **Hora :** 7:58 pm
