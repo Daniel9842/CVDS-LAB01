@@ -36,7 +36,7 @@
   [FOX Racing](https://www.foxracing.com/)
    > Fox Head Inc. (doing business as Fox Racing) is an American extreme sports, primarily motocross, lifestyle clothing brand founded in 1974. Fox is a privately held company run by the founder and his sons, Geoff and Peter Fox, and is owned by private equity company Altamont Capital Partners. The sportswear Fox designs, develops, and distributes is sold worldwide.
 
-* # **Turorial Github**
+* # **GIT Branching**
   * **Main**
   ![](Main.jpg)
   > **Nombre :** Miguel Ángel Rodríguez Siachoque
