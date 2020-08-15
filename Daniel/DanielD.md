@@ -32,9 +32,9 @@ Hamilton ha ganado 6 campeonatos mundiales de Formula 1.\
 [Formula 1](https://www.fórmula1.com/)
 ## **Parte 3**
 1. **Main**
-![](Captura1)
+![](Captura1.PNG)
 2. **Remote**
-![](Captura2)
+![](Captura2.PNG)
 
 
 
